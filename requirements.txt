@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pygit2
+llama-index
+pymilvus
+requests
+pydantic
+python-dotenv
