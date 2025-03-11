@@ -1,8 +1,3 @@
-### **📌 README.md - Documentation Complète pour `git-analyzer`**
-Ce fichier **README** explique **comment cloner le dépôt**, **installer l’environnement**, **configurer les dépendances** et **lancer l’API FastAPI**.
-
----
-
 # **Git Analyzer**
 📌 **Un projet FastAPI permettant d’analyser un repository GitHub, d’indexer son contenu et de faire des recherches sémantiques dans le code source.**  
 💻 **Technologies utilisées** :  
