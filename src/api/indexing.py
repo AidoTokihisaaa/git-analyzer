@@ -1,6 +1,6 @@
 from fastapi import APIRouter
+from src.services.indexing_service import index_repository
 from src.services.git_service import clone_repository, get_latest_commit
-from services.indexing_service import index_repository
 
 router = APIRouter()
 

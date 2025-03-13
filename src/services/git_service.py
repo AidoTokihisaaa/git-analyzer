@@ -2,7 +2,7 @@ import pygit2
 import os
 import shutil
 from src.config import REPO_BASE_PATH
-from utils.logger import logger
+from src.utils.logger import logger
 
 EXCLUDED_FOLDERS = [".git", "node_modules", "__pycache__", "dist", "build", ".venv"]
 
